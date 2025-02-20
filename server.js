@@ -13,6 +13,7 @@ app.get("/", cors(), (req, res) => {
 var whitelist = [
   "https://miyou.netlify.app",
   "https://www.miyou.tk",
+  "https://miyou-smoky.vercel.app",
   "https://miyou.tk",
   "https://miyou-woad.vercel.app",
   "https://www.miyou.me",
